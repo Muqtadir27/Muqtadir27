@@ -13,8 +13,8 @@ I'm Mohammed Abdul Muqtadir, a final-year Data Science undergrad and AI enthusia
 GeminiDecode: Multilanguage Document Extraction by Gemini Pro: Developed a multilingual document extraction tool using Google’s Gemini Pro API. The tool translates and analyzes document images in real-time, providing actionable insights across coding, business, and research contexts for global audiences.    
 
 # 📫 Connect with Me
-LinkedIn: linkedin.com/in/muqtadir27
-GitHub: github.com/Muqtadir27
-Email: abdulmuqtadir1027@gmail.com
-Let’s connect and talk data-driven solutions!
+LinkedIn: linkedin.com/in/muqtadir27    
+GitHub: github.com/Muqtadir27    
+Email: abdulmuqtadir1027@gmail.com    
+Let’s connect and talk data-driven solutions!     
 
