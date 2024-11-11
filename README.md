@@ -1,5 +1,6 @@
 # Hi there 👋
 I'm Mohammed Abdul Muqtadir, a final-year Data Science undergrad and AI enthusiast with a passion for solving real-world problems through data analytics and machine learning.   
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)   
 
 # 👨‍💻 About Me
 💡 Results-driven with a strong foundation in Artificial Intelligence and Data Science.    
@@ -9,11 +10,19 @@ I'm Mohammed Abdul Muqtadir, a final-year Data Science undergrad and AI enthusia
 
 https://github.com/DenverCoder1/github-readme-streak-stats.git
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Mohammed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)    
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)   
+
+
+
+
+
+
 # 📫 Connect with Me
 LinkedIn: linkedin.com/in/muqtadir27    
 GitHub: github.com/Muqtadir27    
 Email: abdulmuqtadir1027@gmail.com    
-Let’s connect and talk data-driven solutions!     
+Let’s connect and talk about data-driven solutions!     
 
