@@ -22,8 +22,6 @@ I'm Mohammed Abdul Muqtadir, a final-year Data Science undergrad and AI enthusia
 
 
 # 📫 Connect with Me
-LinkedIn: linkedin.com/in/muqtadir27    
-GitHub: github.com/Muqtadir27    
-Email: abdulmuqtadir1027@gmail.com    
+
 Let’s connect and talk about data-driven solutions!     
 
