@@ -10,10 +10,10 @@ I'm Mohammed Abdul Muqtadir, a final-year Data Science undergrad and AI enthusia
 
 https://github.com/DenverCoder1/github-readme-streak-stats.git
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)    
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muqtadir27&show_icons=true&theme=radical)    
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)   
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muqtadir27&layout=compact&theme=radical)   
 
 
 
