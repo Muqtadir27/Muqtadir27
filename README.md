@@ -11,8 +11,6 @@ I'm Mohammed Abdul Muqtadir, a final-year Data Science undergrad and AI enthusia
 
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muqtadir27&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muqtadir27&theme=radical)
 
 
