@@ -7,7 +7,8 @@ I'm Mohammed Abdul Muqtadir, a final-year Data Science undergrad and AI enthusia
 🔍 Focused on leveraging data-driven insights to optimize business performance and drive impactful decisions.   
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Im-Mohammed&theme=dark&background=000000&card_width=550&card_height=250)](https://git.io/streak-stats)   
+https://github.com/DenverCoder1/github-readme-streak-stats.git
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Mohammed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)    
 # 📫 Connect with Me
