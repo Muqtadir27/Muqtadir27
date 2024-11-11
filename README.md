@@ -16,7 +16,8 @@ I'm Mohammed Abdul Muqtadir, a final-year Data Science undergrad and AI enthusia
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muqtadir27&layout=compact&theme=radical)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muqtadir27&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
