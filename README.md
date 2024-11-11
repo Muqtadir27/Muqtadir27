@@ -12,11 +12,15 @@ I'm Mohammed Abdul Muqtadir, a final-year Data Science undergrad and AI enthusia
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> </a>
+  <a href="https://www.qlik.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/qlik/qlik-icon.svg" alt="Qlik" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" alt="MS Office" width="40" height="40"/> </a>
+  <a href="https://www.sas.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="SAS" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="40" height="40"/> </a>
 </p>
 
