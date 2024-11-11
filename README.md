@@ -1,6 +1,8 @@
 # Hi there 👋
 I'm Mohammed Abdul Muqtadir, a final-year Data Science undergrad and AI enthusiast with a passion for solving real-world problems through data analytics and machine learning.   
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Muqtadir27.Muqtadir27)   
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Muqtadir27)   
+
 
 # 👨‍💻 About Me
 💡 Results-driven with a strong foundation in Artificial Intelligence and Data Science.    
