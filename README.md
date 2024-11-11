@@ -11,7 +11,7 @@ I'm Mohammed Abdul Muqtadir, a final-year Data Science undergrad and AI enthusia
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muqtadir27&background=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=000000&currStreakNum=000000&sideLabels=000000&dates=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muqtadir27&theme=radical)
 
 
 
