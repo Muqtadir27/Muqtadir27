@@ -1,4 +1,4 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammed Abdul Muqtadir</h1>
 I'm Mohammed Abdul Muqtadir, a final-year Data Science undergrad and AI enthusiast with a passion for solving real-world problems through data analytics and machine learning.   
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Muqtadir27)   
