@@ -8,9 +8,7 @@ I'm Mohammed Abdul Muqtadir, a final-year Data Science undergrad and AI enthusia
 💡 Results-driven with a strong foundation in Artificial Intelligence and Data Science.    
 📊 Skilled in Python, R, SQL, Tableau, Power BI, and Qlik, with hands-on experience in advanced analytics and statistical techniques.   
 🔍 Focused on leveraging data-driven insights to optimize business performance and drive impactful decisions.   
-
-
-- 🌱 I’m currently learning **LLM's.**
+🌱 I’m currently learning **LLM's.**
 
 
 # Languages and Tools
