@@ -43,9 +43,9 @@
 ---
 
 ### 📈 **GitHub Stats**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muqtadir27&layout=compact&theme=vision-friendly-dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muqtadir27&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muqtadir27&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muqtadir27&layout=compact&theme=)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muqtadir27&show_icons=true&theme=)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muqtadir27&theme=)  
 
 ---
 
