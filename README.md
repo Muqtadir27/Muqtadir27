@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muqtadir27&label=Profile%20views&color=0e75b6&style=flat" alt="muqtadir27" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praddyumn16&label=Profile%20views&color=0e75b6&style=flat" alt="praddyumn16" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praddyumn16" alt="praddyumn16" /></a> </p>
+
 ---
 
 ### 📈 **GitHub Stats:**
