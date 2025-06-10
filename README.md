@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Mohammed Abdul Muqtadir</h1>
-<h3 align="center">Coding Solutions, Driven by Curiosity!!!!</h3>
+<h3 align="center">Coding Solutions, Driven by Curiosity!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muqtadir27&label=Profile%20views&color=0e75b6&style=flat" alt="muqtadir27" /> </p>
 
----
 
 ### 👨‍💻 **About Me**
 - 💡 Results-driven with a strong foundation in Artificial Intelligence and Data Science.  
@@ -11,7 +10,6 @@
 - 🔍 Focused on leveraging data-driven insights to optimize business performance and drive impactful decisions.  
 - 🌱 I’m currently learning **LLMs** and exploring **Generative AI**.  
 
----
 
 ### 🛠 **Languages and Tools**
 <p align="left"> 
@@ -38,17 +36,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
 </p>
 
----
 
 ### 📈 **GitHub Stats**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muqtadir27&layout=compact&theme=)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muqtadir27&show_icons=true&theme=)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muqtadir27&theme=)  
-
----
-
-### 🔗 **Connect with Me**
-<p align="left">
-<a href="https://www.linkedin.com/in/muqtadir27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rafaykaleem_27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muqtadir27&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muqtadir27&theme=dark&background=000000&card_width=550&card_height=250)](https://git.io/streak-stats) 
