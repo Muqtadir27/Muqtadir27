@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Mohammed Abdul Muqtadir</h1>
-<h3 align="center">A final-year B.E. Data Science student passionate about analytics, visualization, and driving actionable insights</h3>
+<h3 align="center">Coding Solutions, Driven by Curiosity!!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muqtadir27&label=Profile%20views&color=0e75b6&style=flat" alt="muqtadir27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muqtadir27" alt="muqtadir27" /></a> </p>
 ---
 
 ### 👨‍💻 **About Me**
