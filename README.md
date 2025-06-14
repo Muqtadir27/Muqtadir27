@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mohammed Abdul Muqtadir</h1>
-<h3 align="center">Coding Solutions, Driven by Curiosity!!!</h3>
+<h3 align="center">Coding Solutions, Driven by Curiosity!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muqtadir27&label=Profile%20views&color=0e75b6&style=flat" alt="muqtadir27" /> </p>
 
